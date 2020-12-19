@@ -1,5 +1,7 @@
 # Tiny-Redis
 
+[![](https://github.com/GarfieldZHU/Tiny-Redis/workflows/tiny-redis/badge.svg)](https://github.com/GarfieldZHU/Tiny-Redis/actions?query=workflow%3tiny-redis)
+
 This project is an implementation of a tiny and basic Redis based on library **Tokio**, following the tutorial of **Tokio**. 
 
 
