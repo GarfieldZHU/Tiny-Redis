@@ -1,4 +1,4 @@
-name: Ray-tracer
+name: tiny-redis
 on:
   push:
     branches: [ master ]
