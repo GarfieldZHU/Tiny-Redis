@@ -4,10 +4,12 @@ on:
     branches: [ master ]
     paths:
     - 'src/**'
+    - 'Cargo.toml'
   pull_request:
     branches: [ master ]
     paths:
     - 'src/**'
+    - 'Cargo.toml'
 
 jobs:
   build:
